@@ -1,7 +1,7 @@
 This file is part of the final assignment M508B Big Data Analytics (SS0325), GISMA University, Berlin, Germany.
 
 The following is the output of language translation from Japanese to English using pretrained model "facebook/m2m100_1.2B". 
-The original text for this translation is sourced from https://www.phontron.com/kftt/download/kftt-data-1.0.tar.gz. which contains the Japanese text and the translated Englis text.
+The original text for this translation is sourced from https://www.phontron.com/kftt/download/kftt-data-1.0.tar.gz. which contains the Japanese text and the translated English text.
 
 The JA_ver denotes original Japanese text, EN-ver(Reference) refers to the translated English text from the source whereas the EN-ver (Predicted) is our predicted translated text.
 
